@@ -1,0 +1,12 @@
+Class itemToPurchase:
+    def__int__(self):
+        self.items =[]
+    def add_item(self, name, price, quantity):
+         item= {"name": name, "price": price, "quantity": quality}
+         self.items.append(item)
+    def print_item(self)
+        total_
+
+
+
+
